@@ -1,1 +1,1 @@
-A collection of multithreading examples
+A collection of multithreading examples.
