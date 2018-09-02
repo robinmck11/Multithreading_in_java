@@ -6,6 +6,7 @@
   Description: A bank account with an account name and balance with
   functionality to set and return the account's balance.
 
+  Based on BankAccount class by Cay Horstmann: http://www.horstmann.com/
 
 */
 
