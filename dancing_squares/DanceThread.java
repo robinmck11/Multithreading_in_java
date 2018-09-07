@@ -11,7 +11,7 @@ public class DanceThread extends Thread
 {
   private Square square;
 
-  public BankAccountThread(Square square)
+  public DanceThread(Square square)
   {
     this.square = square;
   }
@@ -22,6 +22,8 @@ public class DanceThread extends Thread
     try {
 
       // Do something here
+
+      System.out.println("Hello World");
 
       } catch (InterruptedException e) {
          System.out.println("Thread Interrupted");
