@@ -1,9 +1,14 @@
 import javax.swing.JFrame;
+import java.awt.event.*;
 
 public class DanceFrame extends JFrame{
 
+
+
   public DanceFrame(){
-    setSize(800,600);
+
+    setSize(1000,800);
     setTitle("Dancing Cubes");
   }
+
 }
